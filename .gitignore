@@ -1,1 +1,24 @@
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Variáveis de ambiente
 .env
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Distribuição
+dist/
+build/
+*.egg-info/
